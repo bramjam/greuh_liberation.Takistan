@@ -2,7 +2,8 @@
 
 # Liberation for Arma 3
 
-## Current version : 0.914 Takistan 0.01
+## Current version : 0.915 Takistan 0.01
+
 
 ## Overview
 
